@@ -1,5 +1,5 @@
 <html>
-<?php include 'lib_gangway.php';?>
+
 <head>
 	<script src="//assets.adobedtm.com/e80b4f015d743e30fe9312f22bce1a7d162d6597/satelliteLib-eb8e1d8e6ea569e385e3ff826bd8a41215fb7cbb.js"></script>
 	<script>
@@ -11,8 +11,7 @@
 	<title>Gangway:Home</title>
 </head>
 <body>
-<?php pageHeader();?>
-<?php mainNav();?>
+
 
 Nothing to see here, yet<br>
 
