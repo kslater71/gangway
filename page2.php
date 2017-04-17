@@ -5,10 +5,10 @@
 	<script>
 		// data layer object
 		var DLO={
-		pageName:'page1'
+		pageName:'page2'
 		}
 	</script>
-	<title>Gangway:Page1</title>
+	<title>Gangway:Page2</title>
 </head>
 <body>
 <?php pageHeader();?>
