@@ -5,7 +5,7 @@
 	<script>
 		// data layer object
 		var DLO={
-		pageName:'page1'
+			pageName:'page1'
 		}
 	</script>
 	<title>Gangway:Page1</title>
@@ -14,7 +14,6 @@
 <?php pageHeader();?>
 <?php mainNav();?>
   
-<p>
 Nothing to see here, yet<br>
   
 

@@ -5,17 +5,15 @@
 	<script>
 		// data layer object
 		var DLO={
-		pageName:'home'
+			pageName:'home'
 		}
 	</script>
 	<title>Gangway:Home</title>
-
-
 </head>
 <body>
 <?php pageHeader();?>
 <?php mainNav();?>
-<p>
+
 Nothing to see here, yet<br>
 
 <script type="text/javascript">_satellite.pageBottom();</script>
