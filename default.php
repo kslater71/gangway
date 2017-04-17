@@ -11,7 +11,8 @@
 	<title>Gangway:Home</title>
 </head>
 <body>
-
+<?php pageHeader();?>
+<?php mainNav();?>
 
 Nothing to see here, yet<br>
 

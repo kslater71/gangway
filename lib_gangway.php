@@ -8,13 +8,13 @@ function pageHeader() {
 	echo($html);
 }
 
-/*
+
 function mainNav() {
- 	//html="<a href='default.php'>Home</a>";
- 	//html.="<a href='page1.php'>Page 1</a>";
- 	//html.="<a href='page2.php'>Page 2</a>";
- 	echo(html);
+ 	$html="<a href='default.php'>Home</a>";
+ 	$html.="<a href='page1.php'>Page 1</a>";
+ 	$html.="<a href='page2.php'>Page 2</a>";
+ 	echo($html);
 }
-*/
+
 
 ?>
