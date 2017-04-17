@@ -13,10 +13,11 @@
 </head>
 <body>
   <b>Project Gangway</b>
-  
+
+<p>
+<?php mainNav();?>
 <p>
 Nothing to see here, yet<br>
-  
 
 <script type="text/javascript">_satellite.pageBottom();</script>
 </body>
