@@ -3,13 +3,12 @@
 Project Gangway Library
 */
 
-/*
 function pageHeader() {
-	html="<b>Project Gangway</b><br>";
-	echo(html);
+	$html="<b>Project Gangway</b><br>";
+	echo($html);
 }
 
-
+/*
 function mainNav() {
  	//html="<a href='default.php'>Home</a>";
  	//html.="<a href='page1.php'>Page 1</a>";
