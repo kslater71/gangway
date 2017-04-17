@@ -3,6 +3,7 @@
 Project Gangway Library
 */
 
+/*
 function pageHeader() {
 	html="<b>Project Gangway</b><br>";
 	echo(html);
@@ -15,6 +16,6 @@ function mainNav() {
  	//html.="<a href='page2.php'>Page 2</a>";
  	echo(html);
 }
-
+*/
 
 ?>
