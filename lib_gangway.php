@@ -4,7 +4,7 @@ Project Gangway Library
 */
 
 function mainNav() {
-  echo "Main Nav";
+  echo "<a href='default.php'>Home</a>";
 }
 
 
