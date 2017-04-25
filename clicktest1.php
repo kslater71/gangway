@@ -19,7 +19,7 @@
 s.contextData['l_type'] = 'o';
 s.contextData['l_name'] = 'Test Click 1 by CD';
 s.contextData['l_type2'] = 'D=pe';
-s.contextData['l_name2'] = 'D=pev2;
+s.contextData['l_name2'] = 'D=pev2';
 s.linkTrackVars='prop1,prop2,contextData.l_type,contextData.l_name,contextData.l_type2,contextData.l_name2';
 s.tl(this,'o','Test Click 1');
 ">Some Clickable Thing 1</a><br>
@@ -29,7 +29,7 @@ s.tl(this,'o','Test Click 1');
 s.contextData['l_type'] = 'o';
 s.contextData['l_name'] = 'Test Click 2 by CD';
 s.contextData['l_type2'] = 'D=pe';
-s.contextData['l_name2'] = 'D=pev2;
+s.contextData['l_name2'] = 'D=pev2';
 s.linkTrackVars='prop1,prop2,contextData.l_type,contextData.l_name,contextData.l_type2,contextData.l_name2';
 s.tl(this,'o','Test Click 2');
 ">Some Clickable Thing 2</a><br>
