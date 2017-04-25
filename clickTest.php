@@ -5,16 +5,23 @@
 	<script>
 		// data layer object
 		var DLO={
-			pageName:'page2'
+			pageName:'click test'
 		}
 	</script>
-	<title>Gangway:Page2</title>
+	<title>Gangway:Click Test</title>
 </head>
 <body>
 <?php pageHeader();?>
 <?php mainNav();?>
   
 Nothing to see here, yet<br>
+
+
+<a ID=link1 href="#" onClick="
+s.tl(this,'o','Test Click 1', null
+">Some Clickable Thing 1</a><br>
+
+<a ID=link2 href="#">Some Clickable Thing 2</a><br>
 
 <script type="text/javascript">_satellite.pageBottom();</script>
 </body>
