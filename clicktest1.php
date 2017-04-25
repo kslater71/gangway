@@ -14,8 +14,6 @@
 <?php pageHeader();?>
 <?php mainNav();?>
   
-Nothing to see here, yet<br>
-
 
 <a ID=link1 href="#" onClick="
 s.contextData['cd_pe'] = 'testpe;
