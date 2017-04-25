@@ -16,13 +16,17 @@
   
 
 <a ID=link1 href="#" onClick="
-s.contextData['cd_pe'] = 'testpe;
-s.contextData['cd_pev2'] = 'testpev2';
+s.contextData['linkType'] = 'o';
+s.contextData['linkName'] = 'Test Click 1 by CD';
 s.tl(this,'o','Test Click 1');
 ">Some Clickable Thing 1</a><br>
 <br>
 
-<a ID=link2 href="#">Some Clickable Thing 2</a><br>
+<a ID=link2 href="#" onClick="
+s.contextData['linkType'] = 'o';
+s.contextData['linkName'] = 'Test Click 2 by CD';
+s.tl(this,'o','Test Click 2');
+">Some Clickable Thing 2</a><br>
 
 <script type="text/javascript">_satellite.pageBottom();</script>
 </body>
