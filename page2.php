@@ -15,7 +15,10 @@
 <?php mainNav();?>
   
 Nothing to see here, yet<br>
-  
+
+
+<a ID=link1 href="#">Some Clickable Thing 1</a><br>
+<a ID=link2 href="#">Some Clickable Thing 2</a><br>
 
 <script type="text/javascript">_satellite.pageBottom();</script>
 </body>
