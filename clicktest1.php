@@ -18,9 +18,9 @@ Nothing to see here, yet<br>
 
 
 <a ID=link1 href="#" onClick="
-s.contextData['pe'] = "testpe";
-s.contextData['pev2'] = "testpev2";
-s.tl(this,'o','Test Click 1', null)
+s.contextData['cd_pe'] = 'testpe;
+s.contextData['cd_pev2'] = 'testpev2';
+s.tl(this,'o','Test Click 1');
 ">Some Clickable Thing 1</a><br>
 
 <a ID=link2 href="#">Some Clickable Thing 2</a><br>
