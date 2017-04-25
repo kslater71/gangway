@@ -18,7 +18,7 @@ Nothing to see here, yet<br>
 
 
 <a ID=link1 href="#" onClick="
-s.tl(this,'o','Test Click 1', null
+s.tl(this,'o','Test Click 1', null)
 ">Some Clickable Thing 1</a><br>
 
 <a ID=link2 href="#">Some Clickable Thing 2</a><br>
