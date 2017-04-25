@@ -18,6 +18,7 @@
 <a ID=link1 href="#" onClick="
 s.contextData['linkType'] = 'o';
 s.contextData['linkName'] = 'Test Click 1 by CD';
+s.linkTrackVars='prop1,prop2,contextData.linkType,contextData.linkName';
 s.tl(this,'o','Test Click 1');
 ">Some Clickable Thing 1</a><br>
 <br>
@@ -25,6 +26,7 @@ s.tl(this,'o','Test Click 1');
 <a ID=link2 href="#" onClick="
 s.contextData['linkType'] = 'o';
 s.contextData['linkName'] = 'Test Click 2 by CD';
+s.linkTrackVars='prop1,prop2,contextData.linkType,contextData.linkName';
 s.tl(this,'o','Test Click 2');
 ">Some Clickable Thing 2</a><br>
 
